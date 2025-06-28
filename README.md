@@ -55,7 +55,7 @@ Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collab
 ![](https://github-contributor-stats.vercel.app/api?username=Srijan4O4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=OmAmar106" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Srijan4O4" alt=""></p>
 
 ---
 
