@@ -1,5 +1,8 @@
-# Welcome, I'm Srijan Agrawal
-**Software Engineer in Progress | ML Algorithms and Math Maniac | Always Learning, Always Building**
+<h1 align="center">Hello, I'm Srijan Agrawal</h1>
+<p align="center" >
+  <strong>Software Engineer in Progress</strong> |<strong> ML Algorithms and Math Maniac</strong> | <strong>Always Learning, Always Building </strong>
+</p>
+
 
 Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collaboration/Project or Anything Else.
 
@@ -43,17 +46,20 @@ Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collab
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Srijan4O4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijan4O4&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img align= "center" src ="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Srijan4O4&limit=5&theme=dark&combine_all_yearly_contributions=true)
