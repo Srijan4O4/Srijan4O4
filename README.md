@@ -61,15 +61,19 @@ Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collab
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Srijan4O4&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
+### 🔝 Top Contributed Repo  
+<div align="center">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Srijan4O4" alt=""></p>
 
----
+<img src="https://github-contributor-stats.vercel.app/api?username=Srijan4O4&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Srijan4O4&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👁️‍🗨️ Profile Views
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=Srijan4O4&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
