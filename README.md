@@ -70,7 +70,7 @@ Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collab
 </div>
 
 ### 👁️‍🗨️ Profile Views
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Srijan4O4&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
