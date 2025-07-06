@@ -4,8 +4,6 @@
 </p>
 
 
-Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collaboration/Project or Anything Else.
-
 - **👨‍💻I’m currently working on:** A portfolio, and a Frontend Project
 - **📔I’m currently learning:** React.js, Backend Development and ML Algorithms
 - **🗣️Ask me about:** My journey, aspiration, goal and definately about projects and improvements
@@ -16,23 +14,40 @@ Email Me 👉📬 <a href="mailto:srijanagrawal89@gmail.com">Here</a> For Collab
 **National Institute of Technology Raipur** | **2027**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srijan4o4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijanagrawal89@gmail.com) 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan4o4/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijanagrawal89@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-orange.svg)](https://codolio.com/profile/Srijan)
+
+</div>
 
 
 ## 🖥️ Coding Platforms:
 <div>
-<p>
-     <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">5 &#9733</span> (2008 Highest) | &nbsp;<a href = "https://www.codechef.com/users/srijanagrawal4">Profile</a>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" />
 </p>
-<p>  &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125">
-    <span class="cfcolor">&nbsp; Specialist </span>(1552 Highest) | &nbsp;<a href = "https://codeforces.com/profile/srijanagrawal">Profile</a>
+<p align ="center">
+  <a href = "https://leetcode.com/u/srijan-agrawal-_-1/">LeetCode</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "https://codeforces.com/profile/srijanagrawal">Codeforces</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "https://www.codechef.com/users/srijanagrawal4">CodeChef</a>
 </p>
-<p>
-     &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2173 Highest) | &nbsp;<a href = "https://leetcode.com/u/srijan-agrawal-_-1/">Profile</a>
+
+<p align ="center">
+ <span class="cfcolor">&nbsp;&nbsp;&nbsp;Guardian </span>(2173 Highest)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="cfcolor">&nbsp; Expert </span>(1608 Highest)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="rating">&nbsp; 5 &#9733</span> (2008 Highest)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 </div>
 
 ##
