@@ -3,8 +3,6 @@
   <strong>Software Engineer in Progress</strong> |<strong> ML Algorithms and Math Maniac</strong> | <strong>Always Learning, Always Building </strong>
 </p>
 
-
-- **👨‍💻I’m currently working on:** A portfolio, and a Frontend Project
 - **📔I’m currently learning:** React.js, Backend Development and ML Algorithms
 - **🗣️Ask me about:** My journey, aspiration, goal and definately about projects and improvements
 - **🛣️How to reach me:** <a href="https://www.linkedin.com/in/srijan4o4/">LinkedIn</a>
